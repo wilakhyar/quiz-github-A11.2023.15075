@@ -2,8 +2,8 @@
 
 - **Nama:** Muhammad Wildan Akhyar
 - **NIM:** A11.2023.15075
-- **Kelas:** [isi kelas kamu]
-- **Mata Kuliah:** [isi mata kuliah]
+- **Kelas:** DEV-01
+- **Mata Kuliah:** Bengkel Koding
 
 ## Deskripsi
-Repository ini dibuat sebagai tugas praktik pengenalan GitHub, mencakup pembuatan akun, profil, dan repository pertama.
+Repository ini dibuat sebagai tugas praktik pengenalan GitHub, mencakup pembuatan akun, profil
